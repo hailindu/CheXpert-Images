@@ -10,7 +10,7 @@ We then created a new environment following the PyTorch "Start Locally" instruct
 We have also attached the YAML file to ensure that anyone who wishes to test the code can have an identical environment and package setup.
 
 ## Data
-We have included the first 1,000 samples of the training dataset in this repository. The notebook we are running uses only the first 500 samples.
+The notebook we are running uses only the first 500 samples.
 
 We are planning to transition to a cloud computing environment to process the entire dataset.
 
