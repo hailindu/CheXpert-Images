@@ -15,6 +15,6 @@ We have included the first 1,000 samples of the training dataset in this reposit
 We are planning to transition to a cloud computing environment to process the entire dataset.
 
 The complete dataset that we used can be found here:
-[CheXpert-v1.0-small 11.47 GB](https://www.kaggle.com/datasets/willarevalo/chexpert-v10-small)
+[CheXpert-v1.0-small](https://www.kaggle.com/datasets/willarevalo/chexpert-v10-small)
 
 
