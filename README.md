@@ -1,4 +1,4 @@
-# Team-58
+# CheXpert Downsampled
 
 ## Environment
 Our environment setup is running on a CUDA Graphics card with version 12.1 of the CUDA Toolkit on Windows.
