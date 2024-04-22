@@ -9,10 +9,11 @@ We then created a new environment following the PyTorch "Start Locally" instruct
 
 We have also attached the YAML file to ensure that anyone who wishes to test the code can have an identical environment and package setup.
 
-## Data and Notebook
+## Notebook
 * The notebook we are running uses only the training set of 500 samples and test set of 100 samples.
 * We have marked down the remaining models for MURA's categories except for the Shoulder category, and we have marked down the VGG models for faster execution.
 
+## Data
 The complete dataset that we used can be found here:
 * ConVirt Paper Image-image Retrieval and Text-image Retrieval Dataset (https://github.com/yuhaozhang/convirt)
 * CheXpert Downsampled (https://www.kaggle.com/datasets/willarevalo/chexpert-v10-small)
